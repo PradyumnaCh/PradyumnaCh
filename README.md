@@ -1,4 +1,4 @@
-Hello! I'm Pradyumna Chermala, a Computer Vision and Deep Learning enthusiast. I'm currently working at Samsung Research, Bangalore as a Software Engineer where my primary responsibility is to create efficient computer vision models to enable novel user experiences in the Photo Editor app.
+Hello! I'm Pradyumna Chermala, a Computer Vision and Deep Learning enthusiast. I'm currently a Master's student in Computer Science at Georgia Institute of Technolgy. Previously, I worked at Samsung Research, Bangalore, India as a Research Engineer where I was responsible for creating efficient computer vision models to enable novel user experiences in the Photo Editor app.
 
 My [LinkedIn](https://www.linkedin.com/in/sai-pradyumna-chermala-235523173/).
 
